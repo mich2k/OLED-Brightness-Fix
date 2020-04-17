@@ -15,9 +15,18 @@ where 0<{value}<=2
 
 the script will work everytime at boot automatically
 
-there are a lot of more complex tools, this one is for who, like me, does not want
-keyboard brigh up/down with unofficial scripts (some are buggy, some unsupported..)
+
+This one is for who, like me, does not want
+keyboard brigh up/down with unofficial scripts
+(some are buggy, some unsupported..) and/or other scripts
+do not work or are unsupported
 
 EXAMPLE:
     
     bright 0.5
+
+
+Tested on:
+
+-   DELL XPS 15 7590    running Ubuntu 20.04 LTS Beta
+-   DELL XPS 15 7590    running Ubuntu 19.10

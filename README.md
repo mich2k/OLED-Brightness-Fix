@@ -11,7 +11,7 @@ and then execute:
   
     bright {value}
    
-where 0<{value}<=2
+where 0 < {value} <= 2  #editable
 
 the script will work everytime at boot automatically
 

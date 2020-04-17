@@ -17,3 +17,7 @@ the script will work everytime at boot automatically
 
 there are a lot of more complex tools, this one is for who, like me, does not want
 keyboard brigh up/down with unofficial scripts (some are buggy, some unsupported..)
+
+EXAMPLE:
+    
+    $ bright 0.5

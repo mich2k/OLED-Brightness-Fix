@@ -20,4 +20,4 @@ keyboard brigh up/down with unofficial scripts (some are buggy, some unsupported
 
 EXAMPLE:
     
-    $ bright 0.5
+    bright 0.5

@@ -17,9 +17,9 @@ the script will work everytime at boot automatically
 
 
 This one is for who, like me, does not want
-keyboard brigh up/down with unofficial scripts
-(some are buggy, some unsupported..) and/or other scripts
-do not work or are unsupported
+keyboard bright up/down "deep" scripts
+or if you are unable to find working scripts
+or are outdated\unsupported for your device
 
 EXAMPLE:
     

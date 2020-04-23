@@ -28,5 +28,5 @@ EXAMPLE:
 
 Tested on:
 
--   DELL XPS 15 7590    running Ubuntu 20.04 LTS Beta
+-   DELL XPS 15 7590    running Ubuntu 20.04 LTS
 -   DELL XPS 15 7590    running Ubuntu 19.10

@@ -6,10 +6,11 @@ when running a Linux based Distro
 just execute the installer under sudo:
 
     bash install.sh
-or
+<h3>or</h3>
+
     ./install.sh
 
-and then execute:
+<h3>and then execute:</h3>
   
     bright {value}
    

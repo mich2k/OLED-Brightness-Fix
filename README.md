@@ -6,6 +6,8 @@ when running a Linux based Distro
 just execute the installer under sudo:
 
     bash install.sh
+or
+    ./install.sh
 
 and then execute:
   

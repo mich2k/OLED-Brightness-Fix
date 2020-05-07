@@ -3,7 +3,7 @@
 This bash script allows you to edit display brightness on unsupported OLED displays 
 when running a Linux based Distro
 
-just execute the installer under sudo:
+<h3>just execute the installer under sudo:</h3>
 
     bash install.sh
 <h3>or</h3>

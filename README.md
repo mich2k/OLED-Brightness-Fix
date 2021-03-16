@@ -31,6 +31,7 @@ EXAMPLE:
 
 Tested on:
 
+-   DELL XPS 15 7590    running Arch Linux
 -   DELL XPS 15 7590    running Manjaro Linux
 -   DELL XPS 15 9550    running KUbuntu 20.04 LTS
 -   DELL XPS 15 9500    running Ubuntu 20.04 LTS

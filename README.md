@@ -1,3 +1,7 @@
+# Introduced official support from Linux kernel
+Referring to torvalds/linux@2227816 the problem with oled brightness controllers has been "fixed"
+Third part scripts are now deprecated and not suggested anymore.
+
 # OLED-Brightness-Fix
 
 This bash script allows you to edit display brightness on unsupported OLED displays 

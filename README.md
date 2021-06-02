@@ -1,6 +1,7 @@
 # Introduced official support from Linux kernel
 Referring to <a href="https://github.com/torvalds/linux/commit/2227816"> torvalds/linux@2227816 </a> 
 the problem with oled brightness controllers has been "fixed"
+<br>
 Third part scripts are now deprecated and not suggested anymore.
 
 # OLED-Brightness-Fix
